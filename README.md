@@ -5,7 +5,7 @@ A system for booking playgrounds includes an admin panel for managing playground
 ## Admin Panel:
 • The admin panel serves as the backend interface for playground administrators to manage playground listings, available time slots, and reservation settings.
 • Administrators can add, edit, and remove playgrounds, set availability for booking, and oversee the booking schedule to avoid conflicts.
-• They can also manage user accounts, view booking analytics, and send notifications to users regarding availability and updates.
+• They can also manage user accounts, view booking analytics, and send notifications to users regarding availability and updates. </br>
 ![alt text](https://github.com/hadeer-elnaghy/Matchat/blob/main/screenshots/screencapture-mido-matchat-app-system-2024-04-22-22_32_43.png)
 
 ## Website for Users:
@@ -17,5 +17,5 @@ A system for booking playgrounds includes an admin panel for managing playground
 • The system facilitates communication between users and their friends, making it easy to organize matches and enjoy playing sports together.
 
 ## Website link
-https://mido.matchat.app
+https://mido.matchat.app </br>
 ![alt text](https://github.com/hadeer-elnaghy/Matchat/blob/main/screenshots/screencapture-mido-matchat-app-home-2024-04-22-22_31_22.png)
